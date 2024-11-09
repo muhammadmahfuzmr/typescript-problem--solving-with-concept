@@ -3,7 +3,7 @@
     "ts-node": "^10.9.2"
   },
   "scripts": {
-    "dev": "ts-node-dev --respawn --transpile-only src/keyof.ts"
+    "dev": "ts-node-dev --respawn --transpile-only src/mappedType.ts"
   },
   "devDependencies": {
     "ts-node-dev": "^2.0.0"
